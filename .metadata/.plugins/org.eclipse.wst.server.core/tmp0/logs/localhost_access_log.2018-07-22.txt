@@ -1,0 +1,4 @@
+0:0:0:0:0:0:0:1 - - [22/Jul/2018:00:00:22 +0530] "GET /toursandtravelsmanagement/london.jsp HTTP/1.1" 200 4834
+0:0:0:0:0:0:0:1 - - [22/Jul/2018:00:00:23 +0530] "GET /toursandtravelsmanagement/images/page4_img2.jpg HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [22/Jul/2018:00:00:27 +0530] "POST /toursandtravelsmanagement/LoginServlet HTTP/1.1" 200 127
+0:0:0:0:0:0:0:1 - - [22/Jul/2018:00:00:30 +0530] "GET /toursandtravelsmanagement/CustomerHome.jsp HTTP/1.1" 200 22424
